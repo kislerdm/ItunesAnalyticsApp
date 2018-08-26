@@ -91,7 +91,7 @@ downloader(APPID, param.measure[metric], param.interval[tframe], param.zoom[tvie
 browser.close()
 ```
 
-Done! We've just authomated data extraction from Itunes Analytics.
+Done! We've just automated data extraction from Itunes Analytics.
 
 ## Requirements
 
