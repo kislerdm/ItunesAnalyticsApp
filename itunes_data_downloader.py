@@ -5,7 +5,7 @@ import json
 import os
 from itunes_app_analytics import (Params, 
                                   Login, 
-                                  DataFetcher, 
+                                  DataFetcher,
                                   browser)
 
 def dates_list(dates, interval = 'm'):
@@ -34,7 +34,7 @@ appID = itunesAppID
 date_start, date_end = '2017-06-01', '2018-08-01'
 dates = dates_list([date_start, date_end])
 
-## login into the appconenct
+## login into the appconnect
 _ = Login(credentials['user'], credentials['pass'])
 ## data fetcher instance
 fetcher = DataFetcher
