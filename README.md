@@ -37,7 +37,7 @@ List of metrics:
 
 3. Download the csv data file from the page on step 2 by emulating a click on the "download" icon
 
-<img src="fig/ItunesAnalyticsApp.png" aling="center" widht="80%">
+<img src="fig/ItunesAnalyticsApp_example.png" aling="center" widht="80%">
 
 ## Requirements
 
