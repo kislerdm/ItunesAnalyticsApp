@@ -4,7 +4,7 @@
 import time
 import os
 import sys
-dir_mod = os.path.dirname(__file__)
+dir_mod = os.path.join(os.path.dirname(__file__), 'browser')
 if dir_mod not in sys.path:
     sys.path.insert(0, dir_mod)
 from selenium_chrome_driver import browser
