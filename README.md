@@ -100,6 +100,5 @@ Done! We've just automated data extraction from Itunes Analytics.
 - python3.6 (it'll most likely work on 2.7, but it wasn't tested)
 
 Modules (use requiremenets.txt):
-- json
-- selenium
-- time
+- json >= 2.0.9
+- selenium >= 3.13.0
